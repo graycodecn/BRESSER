@@ -1,0 +1,8 @@
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\bin\Release\ASCOM.BRESSER.Telescope.dll.config
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\bin\Release\ASCOM.BRESSER.Telescope.dll
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\bin\Release\ASCOM.BRESSER.Telescope.pdb
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\obj\Release\ASCOM.BRESSER.Properties.Resources.resources
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\obj\Release\ASCOM.BRESSER.SetupDialogForm.resources
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\obj\Release\BRESSER.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\obj\Release\ASCOM.BRESSER.Telescope.dll
+D:\Projects\ASCOM\Telescope\BRESSER\BRESSER\obj\Release\ASCOM.BRESSER.Telescope.pdb

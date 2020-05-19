@@ -1,0 +1,16 @@
+D:\Projects\ASCOM\Telescope\JOC\JOC\bin\Release\ASCOM.JOC.Telescope.dll.config
+D:\Projects\ASCOM\Telescope\JOC\JOC\bin\Release\ASCOM.JOC.Telescope.dll
+D:\Projects\ASCOM\Telescope\JOC\JOC\bin\Release\ASCOM.JOC.Telescope.pdb
+D:\Projects\ASCOM\Telescope\JOC\JOC\obj\Release\ASCOM.JOC.Properties.Resources.resources
+D:\Projects\ASCOM\Telescope\JOC\JOC\obj\Release\ASCOM.JOC.SetupDialogForm.resources
+D:\Projects\ASCOM\Telescope\JOC\JOC\obj\Release\JOC.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Telescope\JOC\JOC\obj\Release\ASCOM.JOC.Telescope.dll
+D:\Projects\ASCOM\Telescope\JOC\JOC\obj\Release\ASCOM.JOC.Telescope.pdb
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\obj\Release\JOC.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\obj\Release\ASCOM.BRESSER.Properties.Resources.resources
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\bin\Release\ASCOM.BRESSER.Telescope.dll.config
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\bin\Release\ASCOM.BRESSER.Telescope.dll
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\bin\Release\ASCOM.BRESSER.Telescope.pdb
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\obj\Release\ASCOM.BRESSER.SetupDialogForm.resources
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\obj\Release\ASCOM.BRESSER.Telescope.dll
+D:\Projects\ASCOM\Telescope\BRESSERGoto\JOC\obj\Release\ASCOM.BRESSER.Telescope.pdb
